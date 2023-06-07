@@ -1,0 +1,10 @@
+name: WhatTheDrug
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyter
+  - pandas
+  - networkx
+prefix: /opt/anaconda3/envs/WhatTheDrug
